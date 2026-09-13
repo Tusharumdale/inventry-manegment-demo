@@ -1,2 +1,2 @@
 # inventry-manegment-demo
-this is may Git repository
+this is may  frist Git repository
